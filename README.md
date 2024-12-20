@@ -2,7 +2,7 @@
 
 ETL Mini Project: [ETL_Mini_Project_AWright_EYildirim.ipynb Completed Assignment](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/ETL_Mini_Project_AWright_EYildirim.ipynb)
 
-ERD Diagram: [ERD.png Completed Assignment](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/ERD.png)
+ERD Diagram: ![ERD.png Completed Assignment](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/ERD.png)
 
 
 For the ETL mini project, we will work on building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. We used both Python dictionary method and regular expressions to extract and transform the data. 
