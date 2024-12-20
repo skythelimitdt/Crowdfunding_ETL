@@ -36,7 +36,7 @@ After transforming the data, we will create four CSV files and use the CSV file 
     - An "end_date" with the UTC times converted to the **datetime** format
     - A "category_id" column that contains the unique identification numbers matching those in the "category_id" column of the category DataFrame
     - A "subcategory_id" column that contains the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
-- he campaign DataFrame is exported as **campaign.csv** - Campaign CSV File: [subcategory.csv Completed Assignment](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/Resources/campaign.csv)
+- The campaign DataFrame is exported as **campaign.csv** - Campaign CSV File: [subcategory.csv Completed Assignment](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/Resources/campaign.csv)
 
 
 # Contacts DataFrame is Created
