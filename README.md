@@ -13,12 +13,12 @@ After transforming the data, we will create four CSV files and use the CSV file 
 # Category DataFrame is Created
 - The DataFrame contains a "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
 - The DataFrame has a "category" column that contains only the category titles
-- The category DataFrame is exported as **category.csv** - Category CSV File: [category.csv Completed Assignment](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/Resources/category.csv)
+- The category DataFrame is exported as **category.csv** - Category CSV File: [category file](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/Resources/category.csv)
 
 # Subcategory DataFrame is Created
 - The DataFrame contains a "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories
 - The DataFrame contains a "subcategory" column that contains only the subcategory titles
-- The subcategory DataFrame is exported as **subcategory.csv** - Subcategory CSV File: [subcategory.csv Completed Assignment](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/Resources/subcategory.csv)
+- The subcategory DataFrame is exported as **subcategory.csv** - Subcategory CSV File: [subcategory file](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/Resources/subcategory.csv)
 
 # Campaign DataFrame is Created
 - The DataFrame has the following columns:
@@ -36,7 +36,7 @@ After transforming the data, we will create four CSV files and use the CSV file 
     - An "end_date" with the UTC times converted to the **datetime** format
     - A "category_id" column that contains the unique identification numbers matching those in the "category_id" column of the category DataFrame
     - A "subcategory_id" column that contains the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
-- The campaign DataFrame is exported as **campaign.csv** - Campaign CSV File: [subcategory.csv Completed Assignment](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/Resources/campaign.csv)
+- The campaign DataFrame is exported as **campaign.csv** - Campaign CSV File: [campaign file](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/Resources/campaign.csv)
 
 
 # Contacts DataFrame is Created
@@ -48,7 +48,7 @@ After transforming the data, we will create four CSV files and use the CSV file 
 - The contacts DataFrame is exported as **contacts.csv**
 
 # Crowdfunding Database is Created
-- A database schema labeled, **crowdfunding_db_schema.sql** is created - Crowdfunding_db Schema: [crowfunding_db_schema.sql Completed Assignment](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/crowfunding_db_schema.sql)
+- A database schema labeled, **crowdfunding_db_schema.sql** is created - Crowdfunding_db Schema: [crowfunding schema](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/crowfunding_db_schema.sql)
 - A **crowdfunding_db** is created using the **crowdfunding_db_schema.sql** file
 - The database has the appropriate primary and foreign keys and relationships
 - Each CSV file is imported into the appropriate table without errors
