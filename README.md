@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 
-ETL Mini Project: [ETL_Mini_Project_AWright_EYildirim.ipynb Completed Assignment](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/ETL_Mini_Project_AWright_EYildirim.ipynb)
+ETL Mini Project: [Completed Assignment](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/ETL_Mini_Project_AWright_EYildirim.ipynb)
 
 ERD Diagram: ![ERD.png](https://github.com/skythelimitdt/Crowdfunding_ETL/blob/main/ERD.png)
 
